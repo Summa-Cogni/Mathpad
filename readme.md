@@ -1,5 +1,5 @@
 # Mathpad
-### Get yours on [Crowd Supply](https://www.crowdsupply.com/summa-cogni/mathpad) or [Tindie](https://www.tindie.com/products/summacogni/mathpad/)
+### Get yours on [Crowd Supply](https://www.crowdsupply.com/summa-cogni/mathpad) or [Tindie](https://www.tindie.com/products/summacogni/mathpad-a-keypad-for-typing-math/)
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
     <tr>
