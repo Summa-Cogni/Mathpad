@@ -36,4 +36,4 @@ be displayed by your font. To fix this problem, switch to a font that supports m
 8. Check that Unicode fonts are properly installed on your system
 
 ## Still having problems?
-Ask your question in the [Mathpad Forum](https://www.summacogni.com/forum/viewforum.php?f=3&sid=c0af401a0636b960e1b51769f60db79d)
+Ask your question in the [Mathpad Forum](https://www.summacogni.com/forum/viewforum.php?f=3)

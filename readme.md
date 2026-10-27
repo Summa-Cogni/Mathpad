@@ -11,11 +11,11 @@
         <a href="https://mathpad.summacogni.com">Official Documentation</a>.</p>
       </td>
       <td align="center" width="33%" style="border: none;">
-        <a href="https://www.summacogni.com/forum/viewforum.php?f=3&sid=dd5691a11e42b75db93c227916b067e8">
+        <a href="https://www.summacogni.com/forum/viewforum.php?f=3">
           <img src=".github/images/forum_banner.svg" alt="Forum">
         </a><br>
         <p>Chat with other users and ask your questions in the
-        <a href="https://www.summacogni.com/forum/viewforum.php?f=3&sid=dd5691a11e42b75db93c227916b067e8">Forum</a>.</p>
+        <a href="https://www.summacogni.com/forum/viewforum.php?f=3">Forum</a>.</p>
       </td>
       <td align="center" width="33%" style="border: none;">
         <a href="https://x.com/SummaCogni">
@@ -32,16 +32,16 @@
 </p>
 
 ## What is it?
-Mathpad is a keypad that makes it easy to type equations. It is intended for engineers, 
+Mathpad is a keypad for typing math. It is intended for engineers, 
 scientists, students, and professionals in STEM fields who regularly need to write equations or who use 
 mathematical symbols in their day-to-day work. 
 
-With the Mathpad you can type 120 symbols from algebra, calculus, set theory, and 
-logic, and the full greek alphabet. Mathpad plugs into your computer with a USB-C cable and 
+With Mathpad you can type 120 symbols from algebra, calculus, set theory, and 
+logic, and the full Greek alphabet. Mathpad plugs into your computer with a USB-C cable and 
 works seamlessly alongside your regular keyboard.
 
 The following equations are a few examples of what you can 
-type directly with the Mathpad:
+type directly with Mathpad:
 
 <p style="text-align: center;"><font size="4"> 
 E = mc²<br>
@@ -53,15 +53,20 @@ E = mc²<br>
 Mathpad is available now on [Crowd Supply](https://www.crowdsupply.com/summa-cogni/mathpad) and [Tindie](https://www.tindie.com/products/summacogni/mathpad/).
 
 ### Which site should I use?
-- USA customers: Buy from Crowd Supply
-- International customers: Buy from Tindie
+- In the US: buy from Crowd Supply.
+- Everywhere else: buy from Tindie. If Tindie does not ship to your country, or its shipping is high, Crowd Supply ships worldwide for a flat $18.
 
 ### Why the price difference?
-Crowd Supply is a US-based reseller that handles distribution but must factor in import tariffs and retail margins, which increases the price. Tindie is a marketplace where I sell directly to you with lower platform fees and no US import tariffs for international buyers, resulting in a lower price.
+Crowd Supply is a US-based reseller. Its price includes the US import tariff on its stock and its retail margin. 
+Tindie orders ship directly from Summa Cogni in Denmark, so buyers outside the US do not pay the US tariff. 
+In the US, Crowd Supply still works out cheaper: a parcel from Denmark has US import duty, a customs fee and 
+international shipping added at the border.
 
 
 ## Compatibility
-Mathpad works on Windows, macOS, and virtually all Unix systems.
+Mathpad works on Windows 10 and 11, macOS 11 Big Sur and later, and Linux with IBus. Windows and Mac need a small, free 
+background program: [WinCompose](https://mathpad.summacogni.com/#/software-download?id=wincompose) on Windows and 
+[Mathpad Service](https://mathpad.summacogni.com/#/software-download?id=mathpad-service) on Mac.
 
 Several output modes are supported. Plaintext outputs standard Unicode symbols and can be used practically anywhere you can type regular text. LaTeX is 
 of course also supported, as well as the equation editors of Microsoft Office and LibreOffice.
@@ -69,11 +74,11 @@ of course also supported, as well as the equation editors of Microsoft Office an
 |----------------------------------|-----------|
 | Plaintext                        | ✅        |
 | LaTeX                            | ✅        |
-| Microsoft Office equation editor | ✅        |
-| LibreOffice equation editor      | ✅        |
+| Microsoft Office Equation Editor | ✅        |
+| LibreOffice Equation Editor      | ✅        |
 
 Mathpad works on all computers with Latin keyboard layouts. This includes nearly all western layouts, including 
-US ANSI, UK, French AZERTY, DVORAK, and many more. For a full list of all supported keyboard layouts, 
+US ANSI, UK, French AZERTY, Dvorak, and many more. For a full list of all supported keyboard layouts, 
 see [this list](https://mathpad.summacogni.com/#/compatibility?id=supported-keyboard-layouts).
 
 ## Firmware releases
@@ -86,7 +91,7 @@ If you wish to build the firmware binaries yourself, follow [this guide](https:/
 <img src=".github/images/oshw_facts.svg" width="250">
 </p>
 
-Everyone is permitted to replicate the Mathpad based on the design files found in this repository. Everyone is
+Everyone is permitted to replicate Mathpad based on the design files found in this repository. Everyone is
  permitted to modify, share, and distribute the files, as long as the terms set out in the licenses are respected.
 
 The Summa Cogni logo and the Mathpad logo are the properties of Summacogni OÜ, and may not be replicated.

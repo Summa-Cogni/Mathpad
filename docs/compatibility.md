@@ -8,7 +8,7 @@ will work with your setup.
 
 Mathpad works on:
  - **Windows 10 and 11** with [WinCompose](/software-download.md#wincompose) installed
- - **Mac** with [Mathpad Service](/software-download.md#mathpad-service) installed (requires accessibility permissions)
+ - **macOS 11 Big Sur and later** with [Mathpad Service](/software-download.md#mathpad-service) installed (requires accessibility permissions)
  - **Linux distros with IBus** (includes Ubuntu, Debian, Fedora, CentOS, Raspbian, and many more)
 
 >[!TIP]
@@ -27,7 +27,7 @@ necessary character definitions. This can result in:
 ## Recommended Fonts
 For best compatibility, ensure your system has fonts that include mathematical Unicode blocks:
  - Windows: Cambria Math, Segoe UI Symbol (usually pre-installed)
- - MacOS: SF Pro, Menlo, Monaco (usually pre-installed)
+ - macOS: SF Pro, Menlo, Monaco (usually pre-installed)
  - Linux: DejaVu Sans, Liberation fonts, or install `fonts-symbola` package
 
 ## Testing Font Coverage
@@ -114,7 +114,7 @@ two options:
 1) Install the Mathpad firmware version for whatever layout is the most similar to yours and hope it works
 2) Add your layout as a [Sendstring LUT header file](https://docs.qmk.fm/reference_keymap_extras#header-files) to the
  QMK repository. Once your Pull Request has been accepted, request a new firmware build on the 
- [Mathpad forum](https://www.summacogni.com/forum/viewforum.php?f=3&sid=c0af401a0636b960e1b51769f60db79d).
+ [Mathpad forum](https://www.summacogni.com/forum/viewforum.php?f=3).
 
 ## Unsupported Layouts
 
@@ -129,7 +129,7 @@ the letters A, B, C, D, E, and F can be typed.
 2. Select "More keyboard settings"
 3. Your current keyboard layout is shown under "Preferred languages"
 
-### MacOS
+### macOS
 1. Go to System Preferences > Keyboard > Input Sources
 2. Your active layout is shown in the left panel
 3. You can also check the input menu in the menu bar (flag icon)

@@ -10,7 +10,7 @@
 >
 
 ## Understanding the Mathpad symbol keys
-All symbol keys are divided into two parts: A white LEFT and a blue RIGHT. Symbols are placed in three coloured rows: 
+All symbol keys are divided into two parts: A white LEFT and a blue RIGHT. Symbols are placed in three colored rows: 
 TOP, CENTER, and BOTTOM.
 
 <img src="_media/keycap_overview.svg" style="width: 100%; max-width: 400px;">
@@ -25,7 +25,7 @@ $α$ (Greek letter Alpha) when you press it, and we name the key <keycombo>[α]<
 you access the other symbols on the key.
 
 ## Using the modifier keys
-Accessing the five other symbols is done by combining a symbol key with one or two of the coloured modifier keys.
+Accessing the five other symbols is done by combining a symbol key with one or two of the colored modifier keys.
 
 <img src="_media/top_modifiers_labelled.svg" style="width: 100%; max-width: 500px;">
 
