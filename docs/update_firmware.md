@@ -1,6 +1,6 @@
 # Updating the Firmware
 
-Firmware is the code that runs on the processor inside the Mathpad. You must sometimes update this firmware, 
+Firmware is the code that runs on the processor inside Mathpad. You must sometimes update this firmware, 
 for example when:
 - You set up your Mathpad for the first time
 - You change the keyboard layout on your computer
@@ -36,6 +36,6 @@ folder. Once the file has been transferred, the folder will close automatically.
 >
 
 > [!TIP]
-> The Mathpad is **not** a storage device like a USB memory stick - do not expect to find the firmware file in the 
+> Mathpad is **not** a storage device like a USB memory stick - do not expect to find the firmware file in the 
 > `RPI-RP2` folder after you have uploaded it.
 >

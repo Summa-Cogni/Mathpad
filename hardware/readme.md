@@ -1,6 +1,6 @@
 # Hardware resources
 
-This folder contains everything related to the hardware of the Mathpad:
+This folder contains everything related to the hardware of Mathpad:
 - Enclosure
 - Keycaps
 - Printed circuit board

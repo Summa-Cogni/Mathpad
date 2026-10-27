@@ -1,5 +1,5 @@
 <p style="text-align: center"><img src="_media/mathpad_logo.svg"></p>
-<h3><p style="text-align: center;">The mathematical keypad for students and professionals</p></h3>
+<h3><p style="text-align: center;">A keypad for typing math</p></h3>
 
 
 

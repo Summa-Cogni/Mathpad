@@ -1,6 +1,6 @@
 # Mathpad Symbols
 
-Every symbol that can be typed with the Mathpad is listed here. 
+Every symbol that can be typed with Mathpad is listed here. 
 
 ## Lowercase Greek Letters
 <div class="symbols-grid">

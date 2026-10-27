@@ -1,6 +1,6 @@
 # Firmware resources
 
-This folder contains everything related to the firmware of the Mathpad.
+This folder contains everything related to the firmware of Mathpad.
 
 If you wish to get started with developing or modifying the Mathpad firmware, follow the 
 [guide](https://docs.qmk.fm/#/newbs_getting_started) by QMK on how to get your development environment set up.
@@ -30,7 +30,7 @@ Compile the firmware for Dvorak layout with sticky modifier keys:
 make LAYOUT=dvorak STICKY_MODIFIERS=true
 ```
 
-For more detailed information, see [the official documentation](https://summa-cogni.github.io/Mathpad/#/firmware?id=compiling).
+For more detailed information, see [the official documentation](https://mathpad.summacogni.com/#/firmware?id=compiling).
 
 ## What you CAN do:
 - Use the firmware for any purpose
