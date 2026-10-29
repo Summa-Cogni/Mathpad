@@ -50,7 +50,7 @@ E = mc²<br>
 </font> </p>
 
 ## Where to buy
-Mathpad is available now on [Crowd Supply](https://www.crowdsupply.com/summa-cogni/mathpad) and [Tindie](https://www.tindie.com/products/summacogni/mathpad/).
+Mathpad is available now on [Crowd Supply](https://www.crowdsupply.com/summa-cogni/mathpad) and [Tindie](https://www.tindie.com/products/summacogni/mathpad-a-keypad-for-typing-math/).
 
 ### Which site should I use?
 - In the US: buy from Crowd Supply.
