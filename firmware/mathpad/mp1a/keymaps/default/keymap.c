@@ -216,7 +216,7 @@ enum custom_keycodes {
 //--------------
 enum tap_dance_keys {
     // Greek symbols
-    GAMMA_TD,                  // Gamma γ / Digamma ϝ
+    GAMMA_TD,                  // Gamma γ / Capital gamma Γ
     DELTA_TD,                  // Delta δ / Capital delta Δ
     THETA_TD,                  // Theta θ / Capital theta Θ
     LAMBDA_TD,                 // Lambda λ / Capital lambda Λ
@@ -228,7 +228,7 @@ enum tap_dance_keys {
     OMEGA_TD,                  // Omega ω / Capital omega Ω
 
     // Comparison symbols
-    ASYMPT_EQ_TD,              // Asymptotically equal to ≃ / Approximately equal to ≈
+    ASYMPT_EQ_TD,              // Asymptotically equal to ≃ / Congruent to ≅
     IDENTICALLY_EQUAL_TD,      // Identical to ≡ / Not identical to ≢
     EQUAL_BY_DEF_TD,           // Colon equals ≔ / Equal by definition ≝ 
     GTEQ_TD,                   // Greater or equal to ≥ / Less or equal to ≤
@@ -259,7 +259,7 @@ enum tap_dance_keys {
 
     // Logic symbols
     THERE_EXIST_TD,            // There exists ∃ / There does not exist ∄
-    AND_TD,                    // Logical and ∧ / Logical or ∨ / Logical xor ⊕
+    AND_TD,                    // Logical and ∧ / Logical or ∨ / Logical xor ⊻
     DOWN_TACK_TD,              // Down tack ⊤ / Up tack ⊥
 
     // Misc symbols

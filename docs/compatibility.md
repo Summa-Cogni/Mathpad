@@ -146,7 +146,7 @@ the letters A, B, C, D, E, and F can be typed.
 
 ### Mac
 - Mathpad Service must be running
-- Mathpad Service must have been granted Accessibility and Input Monitoring permissions
+- Mathpad Service must have been granted Accessibility permission
 - On some macOS versions, certain mathematical symbols may require manual font installation
 
 

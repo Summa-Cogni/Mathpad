@@ -36,7 +36,7 @@ Mathpad is a keypad for typing math. It is intended for engineers,
 scientists, students, and professionals in STEM fields who regularly need to write equations or who use 
 mathematical symbols in their day-to-day work. 
 
-With Mathpad you can type 120 symbols from algebra, calculus, set theory, and 
+With Mathpad you can type over 120 symbols from algebra, calculus, set theory, and 
 logic, and the full Greek alphabet. Mathpad plugs into your computer with a USB-C cable and 
 works seamlessly alongside your regular keyboard.
 

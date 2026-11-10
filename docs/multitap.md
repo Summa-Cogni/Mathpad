@@ -1,16 +1,16 @@
 # Multitap
 
 Many symbols are marked by a small orange dot. Tapping such a symbol twice quickly will type a different 
-but related symbol. For example, double-tapping <keycombo>[δ]</keycombo> types its uppercase variant Δ. The notation 
-for this action is <keycombo>[δ][x2]</keycombo>.
+but related symbol. For example, double-tapping <keycombo>[γ]</keycombo> types its uppercase variant Γ. The notation 
+for this action is <keycombo>[γ][x2]</keycombo>.
 
 <img src="_media/multitap_indicator.svg" style="width: 100%; max-width: 500px;">
 
-Certain symbols can be triple-tapped. For example, to type ∜ you must triple-tap <keycombo>[√]</keycombo>. 
+Certain symbols can be triple-tapped. For example, to type ∜ you must keep [C] pressed and triple-tap the key, written <keycombo>[C]+[ν][x3]</keycombo>. 
 Double-tapping it types ∛.
 
 To multitap a symbol that requires the use of modifier keys, you must keep the modifier keys pressed and only multitap 
-the symbol key. For example, to get ≅, you must keep [R] and [C] pressed while you tap <keycombo>[≃]</keycombo> twice 
+the symbol key. For example, to get ≅, you must keep [R] and [C] pressed while you tap <keycombo>[γ]</keycombo> twice 
 quickly.
 
 

@@ -33,7 +33,7 @@ Every symbol that can be typed with Mathpad is listed here.
     </div>
   </div>
   <div class="symbol-card">
-    <div class="symbol">ϵ</div>
+    <div class="symbol">ε</div>
     <div class="name">Epsilon</div>
     <div class="details">
       <div class="key-combo"><keycombo>[ϵ]</keycombo></div>
@@ -71,7 +71,7 @@ Every symbol that can be typed with Mathpad is listed here.
     <div class="symbol">κ</div>
     <div class="name">Kappa</div>
     <div class="details">
-      <div class="key-combo"><keycombo>[R]+[κ]</keycombo></div>
+      <div class="key-combo"><keycombo>[R]+[ι]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
@@ -85,7 +85,7 @@ Every symbol that can be typed with Mathpad is listed here.
     <div class="symbol">μ</div>
     <div class="name">Mu</div>
     <div class="details">
-      <div class="key-combo"><keycombo>[R]+[μ]</keycombo></div>
+      <div class="key-combo"><keycombo>[R]+[λ]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
@@ -99,7 +99,7 @@ Every symbol that can be typed with Mathpad is listed here.
     <div class="symbol">ξ</div>
     <div class="name">Xi</div>
     <div class="details">
-      <div class="key-combo"><keycombo>[R]+[ξ]</keycombo></div>
+      <div class="key-combo"><keycombo>[R]+[ν]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
@@ -113,7 +113,7 @@ Every symbol that can be typed with Mathpad is listed here.
     <div class="symbol">ρ</div>
     <div class="name">Rho</div>
     <div class="details">
-      <div class="key-combo"><keycombo>[R]+[ρ]</keycombo></div>
+      <div class="key-combo"><keycombo>[R]+[π]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
@@ -127,7 +127,7 @@ Every symbol that can be typed with Mathpad is listed here.
     <div class="symbol">τ</div>
     <div class="name">Tau</div>
     <div class="details">
-      <div class="key-combo"><keycombo>[R]+[τ]</keycombo></div>
+      <div class="key-combo"><keycombo>[R]+[σ]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
@@ -141,7 +141,7 @@ Every symbol that can be typed with Mathpad is listed here.
     <div class="symbol">φ</div>
     <div class="name">Phi</div>
     <div class="details">
-      <div class="key-combo"><keycombo>[R]+[φ]</keycombo></div>
+      <div class="key-combo"><keycombo>[R]+[υ]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
@@ -155,7 +155,7 @@ Every symbol that can be typed with Mathpad is listed here.
     <div class="symbol">ψ</div>
     <div class="name">Psi</div>
     <div class="details">
-      <div class="key-combo"><keycombo>[R]+[ψ]</keycombo></div>
+      <div class="key-combo"><keycombo>[R]+[χ]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
@@ -171,70 +171,70 @@ Every symbol that can be typed with Mathpad is listed here.
 <div class="symbols-grid">
   <div class="symbol-card">
     <div class="symbol">Γ</div>
-    <div class="name">Gamma (uppercase)</div>
+    <div class="name">Gamma uppercase</div>
     <div class="details">
       <div class="key-combo"><keycombo>[γ][x2]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
     <div class="symbol">Δ</div>
-    <div class="name">Delta (uppercase)</div>
+    <div class="name">Delta uppercase</div>
     <div class="details">
-      <div class="key-combo"><keycombo>[R]+[δ][x2]</keycombo></div>
+      <div class="key-combo"><keycombo>[R]+[γ][x2]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
     <div class="symbol">Θ</div>
-    <div class="name">Theta (uppercase)</div>
+    <div class="name">Theta uppercase</div>
     <div class="details">
-      <div class="key-combo"><keycombo>[R]+[θ][x2]</keycombo></div>
+      <div class="key-combo"><keycombo>[R]+[η][x2]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
     <div class="symbol">Λ</div>
-    <div class="name">Lambda (uppercase)</div>
+    <div class="name">Lambda uppercase</div>
     <div class="details">
       <div class="key-combo"><keycombo>[λ][x2]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
     <div class="symbol">Ξ</div>
-    <div class="name">Xi (uppercase)</div>
+    <div class="name">Xi uppercase</div>
     <div class="details">
-      <div class="key-combo"><keycombo>[R]+[ξ][x2]</keycombo></div>
+      <div class="key-combo"><keycombo>[R]+[ν][x2]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
     <div class="symbol">Π</div>
-    <div class="name">Pi (uppercase)</div>
+    <div class="name">Pi uppercase</div>
     <div class="details">
       <div class="key-combo"><keycombo>[π][x2]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
     <div class="symbol">Σ</div>
-    <div class="name">Sigma (uppercase)</div>
+    <div class="name">Sigma uppercase</div>
     <div class="details">
       <div class="key-combo"><keycombo>[σ][x2]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
     <div class="symbol">Φ</div>
-    <div class="name">Phi (uppercase)</div>
+    <div class="name">Phi uppercase</div>
     <div class="details">
-      <div class="key-combo"><keycombo>[R]+[φ][x2]</keycombo></div>
+      <div class="key-combo"><keycombo>[R]+[υ][x2]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
     <div class="symbol">Ψ</div>
-    <div class="name">Psi (uppercase)</div>
+    <div class="name">Psi uppercase</div>
     <div class="details">
-      <div class="key-combo"><keycombo>[R]+[ψ][x2]</keycombo></div>
+      <div class="key-combo"><keycombo>[R]+[χ][x2]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
     <div class="symbol">Ω</div>
-    <div class="name">Omega (uppercase)</div>
+    <div class="name">Omega uppercase</div>
     <div class="details">
       <div class="key-combo"><keycombo>[ω][x2]</keycombo></div>
     </div>
@@ -273,63 +273,63 @@ Every symbol that can be typed with Mathpad is listed here.
   </div>
   <div class="symbol-card">
     <div class="symbol">≅</div>
-    <div class="name">Approximately equal</div>
+    <div class="name">Congruent</div>
     <div class="details">
       <div class="key-combo"><keycombo>[R][C]+[γ][x2]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
     <div class="symbol">≡</div>
-    <div class="name">Identical to</div>
+    <div class="name">Identical</div>
     <div class="details">
       <div class="key-combo"><keycombo>[C]+[ϵ]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
-    <div class="symbol">≣</div>
-    <div class="name">Strictly equivalent to</div>
+    <div class="symbol">≢</div>
+    <div class="name">Not identical</div>
     <div class="details">
       <div class="key-combo"><keycombo>[C]+[ϵ][x2]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
     <div class="symbol">≔</div>
-    <div class="name">Definition</div>
+    <div class="name">Colon equals</div>
     <div class="details">
       <div class="key-combo"><keycombo>[R][C]+[ϵ]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
     <div class="symbol">≝</div>
-    <div class="name">Definition (alternative)</div>
+    <div class="name">Equal by definition</div>
     <div class="details">
       <div class="key-combo"><keycombo>[R][C]+[ϵ][x2]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
     <div class="symbol">≥</div>
-    <div class="name">Greater or equal</div>
+    <div class="name">Greater than or equal</div>
     <div class="details">
       <div class="key-combo"><keycombo>[C]+[η]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
     <div class="symbol">≤</div>
-    <div class="name">Less or equal</div>
+    <div class="name">Less than or equal</div>
     <div class="details">
       <div class="key-combo"><keycombo>[C]+[η][x2]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
     <div class="symbol">≫</div>
-    <div class="name">Much greater</div>
+    <div class="name">Much greater than</div>
     <div class="details">
       <div class="key-combo"><keycombo>[R][C]+[η]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
     <div class="symbol">≪</div>
-    <div class="name">Much less</div>
+    <div class="name">Much less than</div>
     <div class="details">
       <div class="key-combo"><keycombo>[R][C]+[η][x2]</keycombo></div>
     </div>
@@ -340,14 +340,14 @@ Every symbol that can be typed with Mathpad is listed here.
 <div class="symbols-grid">
   <div class="symbol-card">
     <div class="symbol">∑</div>
-    <div class="name">Summation</div>
+    <div class="name">Sum</div>
     <div class="details">
       <div class="key-combo"><keycombo>[C]+[ι]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
     <div class="symbol">∏</div>
-    <div class="name">Product</div>
+    <div class="name">N-ary product</div>
     <div class="details">
       <div class="key-combo"><keycombo>[R][C]+[ι]</keycombo></div>
     </div>
@@ -375,7 +375,7 @@ Every symbol that can be typed with Mathpad is listed here.
   </div>
   <div class="symbol-card">
     <div class="symbol">∮</div>
-    <div class="name">Contour integral</div>
+    <div class="name">Line integral</div>
     <div class="details">
       <div class="key-combo"><keycombo>[R][C]+[λ]</keycombo></div>
     </div>
@@ -410,7 +410,7 @@ Every symbol that can be typed with Mathpad is listed here.
   </div>
   <div class="symbol-card">
     <div class="symbol">∜</div>
-    <div class="name">Quadratic root</div>
+    <div class="name">Fourth root</div>
     <div class="details">
       <div class="key-combo"><keycombo>[C]+[ν][x3]</keycombo></div>
     </div>
@@ -435,35 +435,42 @@ Every symbol that can be typed with Mathpad is listed here.
 <div class="symbols-grid">
   <div class="symbol-card">
     <div class="symbol">∧</div>
-    <div class="name">Logical And</div>
+    <div class="name">Logical and</div>
     <div class="details">
       <div class="key-combo"><keycombo>[C]+[σ]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
     <div class="symbol">∨</div>
-    <div class="name">Logical Or</div>
+    <div class="name">Logical or</div>
     <div class="details">
       <div class="key-combo"><keycombo>[C]+[σ][x2]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
+    <div class="symbol">⊻</div>
+    <div class="name">Logical exclusive or</div>
+    <div class="details">
+      <div class="key-combo"><keycombo>[C]+[σ][x3]</keycombo></div>
+    </div>
+  </div>
+  <div class="symbol-card">
     <div class="symbol">¬</div>
-    <div class="name">Not</div>
+    <div class="name">Logical not</div>
     <div class="details">
       <div class="key-combo"><keycombo>[R][C]+[σ]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
     <div class="symbol">∃</div>
-    <div class="name">There Exists</div>
+    <div class="name">There exists</div>
     <div class="details">
       <div class="key-combo"><keycombo>[C]+[υ]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
     <div class="symbol">∄</div>
-    <div class="name">There Does Not Exist</div>
+    <div class="name">There does not exist</div>
     <div class="details">
       <div class="key-combo"><keycombo>[C]+[υ][x2]</keycombo></div>
     </div>
@@ -484,7 +491,7 @@ Every symbol that can be typed with Mathpad is listed here.
   </div>
   <div class="symbol-card">
     <div class="symbol">⊥</div>
-    <div class="name">Up Tack</div>
+    <div class="name">Up tack</div>
     <div class="details">
       <div class="key-combo"><keycombo>[C]+[χ][x2]</keycombo></div>
     </div>
@@ -502,37 +509,37 @@ Every symbol that can be typed with Mathpad is listed here.
   </div>
   <div class="symbol-card">
     <div class="symbol">↔</div>
-    <div class="name">Left Right arrow</div>
+    <div class="name">Left right arrow</div>
     <div class="details">
-      <div class="key-combo"><keycombo>[R][C]+[ν][x2]</keycombo></div>
+      <div class="key-combo"><keycombo>[R][C]+[ν][x3]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
     <div class="symbol">←</div>
     <div class="name">Left arrow</div>
     <div class="details">
-      <div class="key-combo"><keycombo>[R][C]+[ν][x3]</keycombo></div>
+      <div class="key-combo"><keycombo>[R][C]+[ν][x2]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
     <div class="symbol">⇒</div>
-    <div class="name">Right double arrow</div>
+    <div class="name">Double right arrow</div>
     <div class="details">
       <div class="key-combo"><keycombo>[R][C]+[χ]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
     <div class="symbol">⇔</div>
-    <div class="name">Left Right double arrow</div>
+    <div class="name">Double left right arrow</div>
     <div class="details">
-      <div class="key-combo"><keycombo>[R][C]+[χ][x2]</keycombo></div>
+      <div class="key-combo"><keycombo>[R][C]+[χ][x3]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
     <div class="symbol">⇐</div>
-    <div class="name">Left double arrow</div>
+    <div class="name">Double left arrow</div>
     <div class="details">
-      <div class="key-combo"><keycombo>[R][C]+[χ][x3]</keycombo></div>
+      <div class="key-combo"><keycombo>[R][C]+[χ][x2]</keycombo></div>
     </div>
   </div>
 </div>
@@ -541,7 +548,7 @@ Every symbol that can be typed with Mathpad is listed here.
 <div class="symbols-grid">
   <div class="symbol-card">
     <div class="symbol">^</div>
-    <div class="name">Hat</div>
+    <div class="name">Circumflex</div>
     <div class="details">
       <div class="key-combo"><keycombo>[B]+[α]</keycombo></div>
     </div>
@@ -555,14 +562,14 @@ Every symbol that can be typed with Mathpad is listed here.
   </div>
   <div class="symbol-card">
     <div class="symbol">~</div>
-    <div class="name">Tilde</div>
+    <div class="name">Combining tilde</div>
     <div class="details">
       <div class="key-combo"><keycombo>[B]+[γ]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
     <div class="symbol">¯</div>
-    <div class="name">Overbar</div>
+    <div class="name">Bar</div>
     <div class="details">
       <div class="key-combo"><keycombo>[R][B]+[γ]</keycombo></div>
     </div>
@@ -621,6 +628,27 @@ Every symbol that can be typed with Mathpad is listed here.
     </div>
   </div>
   <div class="symbol-card">
+    <div class="symbol">ᵢ</div>
+    <div class="name">Subscript i</div>
+    <div class="details">
+      <div class="key-combo"><keycombo>[B]+[η][x4]</keycombo></div>
+    </div>
+  </div>
+  <div class="symbol-card">
+    <div class="symbol">ⱼ</div>
+    <div class="name">Subscript j</div>
+    <div class="details">
+      <div class="key-combo"><keycombo>[B]+[η][x5]</keycombo></div>
+    </div>
+  </div>
+  <div class="symbol-card">
+    <div class="symbol">ₙ</div>
+    <div class="name">Subscript n</div>
+    <div class="details">
+      <div class="key-combo"><keycombo>[B]+[η][x6]</keycombo></div>
+    </div>
+  </div>
+  <div class="symbol-card">
     <div class="symbol">⁰</div>
     <div class="name">Superscript 0</div>
     <div class="details">
@@ -639,6 +667,27 @@ Every symbol that can be typed with Mathpad is listed here.
     <div class="name">Superscript 2</div>
     <div class="details">
       <div class="key-combo"><keycombo>[R][B]+[η][x3]</keycombo></div>
+    </div>
+  </div>
+  <div class="symbol-card">
+    <div class="symbol">ⁱ</div>
+    <div class="name">Superscript i</div>
+    <div class="details">
+      <div class="key-combo"><keycombo>[R][B]+[η][x4]</keycombo></div>
+    </div>
+  </div>
+  <div class="symbol-card">
+    <div class="symbol">ʲ</div>
+    <div class="name">Superscript j</div>
+    <div class="details">
+      <div class="key-combo"><keycombo>[R][B]+[η][x5]</keycombo></div>
+    </div>
+  </div>
+  <div class="symbol-card">
+    <div class="symbol">ⁿ</div>
+    <div class="name">Superscript n</div>
+    <div class="details">
+      <div class="key-combo"><keycombo>[R][B]+[η][x6]</keycombo></div>
     </div>
   </div>
 </div>
@@ -661,14 +710,14 @@ Every symbol that can be typed with Mathpad is listed here.
   </div>
   <div class="symbol-card">
     <div class="symbol">∉</div>
-    <div class="name">Not an element of</div>
+    <div class="name">Not element of</div>
     <div class="details">
       <div class="key-combo"><keycombo>[R][B]+[ι]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
     <div class="symbol">⊂</div>
-    <div class="name">Proper Subset</div>
+    <div class="name">Proper subset</div>
     <div class="details">
       <div class="key-combo"><keycombo>[B]+[λ]</keycombo></div>
     </div>
@@ -716,8 +765,8 @@ Every symbol that can be typed with Mathpad is listed here.
     </div>
   </div>
   <div class="symbol-card">
-    <div class="symbol">⊔</div>
-    <div class="name">Disjoint Union</div>
+    <div class="symbol">⨆</div>
+    <div class="name">Disjoint union</div>
     <div class="details">
       <div class="key-combo"><keycombo>[B]+[π]</keycombo></div>
     </div>
@@ -729,13 +778,20 @@ Every symbol that can be typed with Mathpad is listed here.
       <div class="key-combo"><keycombo>[R][B]+[π]</keycombo></div>
     </div>
   </div>
+  <div class="symbol-card">
+    <div class="symbol">℘</div>
+    <div class="name">Power set</div>
+    <div class="details">
+      <div class="key-combo"><keycombo>[R][B]+[π][x2]</keycombo></div>
+    </div>
+  </div>
 </div>
 
 ## Other Symbols
 <div class="symbols-grid">
   <div class="symbol-card">
     <div class="symbol">×</div>
-    <div class="name">Cross product</div>
+    <div class="name">Times</div>
     <div class="details">
       <div class="key-combo"><keycombo>[B]+[σ]</keycombo></div>
     </div>
@@ -791,7 +847,7 @@ Every symbol that can be typed with Mathpad is listed here.
   </div>
   <div class="symbol-card">
     <div class="symbol">⊗</div>
-    <div class="name">Tensor product</div>
+    <div class="name">Circled times</div>
     <div class="details">
       <div class="key-combo"><keycombo>[R][B]+[ν][x2]</keycombo></div>
     </div>
@@ -802,35 +858,35 @@ Every symbol that can be typed with Mathpad is listed here.
 <div class="symbols-grid">
   <div class="symbol-card">
     <div class="symbol">ℕ</div>
-    <div class="name">Natural numbers</div>
+    <div class="name">Naturals</div>
     <div class="details">
       <div class="key-combo"><keycombo>[R]+[ω]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
     <div class="symbol">ℤ</div>
-    <div class="name">Integer numbers</div>
+    <div class="name">Integers</div>
     <div class="details">
       <div class="key-combo"><keycombo>[C]+[ω]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
     <div class="symbol">ℚ</div>
-    <div class="name">Rational numbers</div>
+    <div class="name">Rationals</div>
     <div class="details">
       <div class="key-combo"><keycombo>[R][C]+[ω]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
     <div class="symbol">ℝ</div>
-    <div class="name">Real numbers</div>
+    <div class="name">Reals</div>
     <div class="details">
       <div class="key-combo"><keycombo>[B]+[ω]</keycombo></div>
     </div>
   </div>
   <div class="symbol-card">
     <div class="symbol">ℂ</div>
-    <div class="name">Complex numbers</div>
+    <div class="name">Complexes</div>
     <div class="details">
       <div class="key-combo"><keycombo>[R][B]+[ω]</keycombo></div>
     </div>
