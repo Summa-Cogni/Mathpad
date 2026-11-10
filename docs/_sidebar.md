@@ -9,6 +9,7 @@
   * [Output Modes](modes.md "Switch between Plaintext, LaTeX, and more")
   * [Update Firmware](update_firmware.md "Update the firmware of your Mathpad")
   * [Troubleshooting](troubleshoot.md "Fix common problems")
+  * [Teardown and Repair](teardown.md "Open, clean, and repair your Mathpad")
   * [Compatibility](compatibility.md "View OS and keyboard layout compatibility")
 
 - Downloads
