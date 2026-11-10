@@ -19,6 +19,17 @@
   href="//cdn.jsdelivr.net/npm/prism-themes@1/themes/prism-one-light.min.css"
   />
   <style>
+    /* STIX Two Math, bundled so visitors without Cambria Math all see the same
+       math font. 148 KB subset of CTAN fonts/stix2-otf v2.12, SIL OFL 1.1 (see
+       _media/fonts/STIXTwoMath-OFL.txt). Windows line metrics reduced to the
+       typo metrics. The summacogni.com site bundles the same font. */
+    @font-face {
+      font-family: "STIX Two Math Web";
+      src: url("_media/fonts/stix-two-math-subset.woff2") format("woff2");
+      font-weight: 400;
+      font-style: normal;
+      font-display: swap;
+    }
     /* Search input box */
     .search input {
       font-size: 16px; /* Adjust this value */
@@ -67,7 +78,7 @@
       background-color: #ffffff;
       border: 1px solid #000000;
       border-radius: 3px;
-      font-family: "Cambria Math";
+      font-family: "Cambria Math", "STIX Two Math Web", serif;
       text-align: center;
       box-sizing: border-box;
       vertical-align: middle; /* Add this to align with surrounding text */
@@ -84,7 +95,7 @@
       background-color: #ffffff;
       border: 1px solid #000000;
       border-radius: 3px;
-      font-family: "Cambria Math";
+      font-family: "Cambria Math", "STIX Two Math Web", serif;
       font-size: 0.8em;
       text-align: center;
       box-sizing: border-box;
@@ -121,7 +132,7 @@
       display: flex;
       align-items: center;
       justify-content: center;
-      font-family: "Cambria Math", "STIX Two Math", "STIX", "Asana Math", "Cambria", serif;
+      font-family: "Cambria Math", "STIX Two Math Web", "STIX Two Math", "STIX", "Asana Math", "Cambria", serif;
     }
     /* Details Container */
     .details {
